@@ -1,19 +1,17 @@
 # Hi, I'm Janis 👋
 
-I'm a **Computer Science & Data Science undergraduate at the University of Toronto**, graduating in **Spring 2026**.  
-I enjoy building reliable software systems and applying machine learning to real-world problems.
+I'm a **Computer Science & Data Science undergraduate at the University of Toronto**, graduating in **Spring 2026**.
 
-My experience spans **backend development**, **data science**, and **reinforcement learning**, with a strong focus on writing clear, maintainable code and understanding systems end-to-end.
+I build backend systems and machine learning models with a focus on strong fundamentals, reliability, and understanding how systems behave end-to-end. My experience spans backend engineering, data science, and reinforcement learning research.
 
 ---
 
 ## 🔧 Technical Interests
-- Backend & API development
 - Backend systems and API design
 - Machine learning and applied data science
 - Reinforcement learning for decision-making under uncertainty
-- Automated testing and reliability engineering
-- Software engineering fundamentals (systems, algorithms, testing)
+- Software engineering fundamentals (algorithms, systems, testing)
+- Reliability and evaluation of real-world systems
 
 ---
 
@@ -27,9 +25,8 @@ My experience spans **backend development**, **data science**, and **reinforceme
 **Other:** LaTeX, Typst, Tableau, GDB
 
 ---
-
 ## 📌 Select Projects
-*A small number of focused projects that best represent my work and how I think about engineering and ML problems.*
+*Highlighted projects that best represent my technical work. Public code repositories are pinned on my profile; some research and course projects below are not fully available due to academic or collaboration constraints.*
 
 ### 🔹 Reinforcement Learning for Market Making (Research)
 - Awarded a **Summer Undergraduate Research Award (SURA)** to study reinforcement learning for options market making under inventory risk
@@ -61,18 +58,26 @@ My experience spans **backend development**, **data science**, and **reinforceme
 - Performed **EDA, feature engineering, normalization, and hyperparameter tuning**
 - Emphasized evaluation quality and interpretability over raw accuracy
 
+---
+
+### 🔹 Reinforcement Learning: Sutton & Barto Study Notes
+- Self-studied *Reinforcement Learning: An Introduction* (Sutton & Barto) and implemented selected exercises to deepen understanding of MDPs, value functions, policy gradients, and temporal-difference learning
+- Wrote structured summaries and mathematical derivations to reinforce theoretical foundations and connect concepts to practical implementations
+- Notes and exercise solutions available here: [Summary & Solution to Reinforcement Learning, An Introduction](https://drive.google.com/file/d/1QsVm52aiXyygQn1b0f92X7gdlDhLr3dI/view?usp=sharing)
+
 
 ---
 
 ## 🎓 Experience & Involvement
 - Teaching Assistant for Computer Science, Statistics, and Mathematic courses at UofT  
 - Industry internships focused on backend development and data-driven systems  
-- Research projects involving multi-agent reinforcement learning  
+- Research projects involving multi-agent reinforcement learning
+- Competitive programming background in C++ since high school, won two provincial-level competitive programming competitions
 
 ---
 
 ## 📈 What I'm Looking For
-I'm currently applying for New Grad Software Engineer, Data Scientist, and Machine Learning Engineer roles starting in Summer or Fall 2026.
+I'm currently applying for New Grad Software Engineer, Data Scientist, and Machine Learning Engineer roles starting Summer or Fall 2026.
 
 I'm especially interested in teams that value:
 - Strong engineering fundamentals
